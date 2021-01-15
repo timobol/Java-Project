@@ -1,7 +1,7 @@
 package exday3;
 
 public class Sparrow1 {
-	private String name = "すずめ";
+	private String name = "雀";
 	//名前を取得
 	public String getName() {
 		return name;
